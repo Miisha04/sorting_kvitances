@@ -1,3 +1,6 @@
 [submodule "OpenXLSX"]
 	path = OpenXLSX
 	url = https://github.com/troldal/OpenXLSX
+[submodule "RapidCSV"]
+	path = RapidCSV
+	url = https://github.com/d99kris/rapidcsv
