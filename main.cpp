@@ -10,9 +10,9 @@
 #include <filesystem>
 
 
-#include "libs/pugixml-1.14/src/pugixml.hpp"
-#include "libs/rapidcsv/src/rapidcsv.h"
-#include "libs/OpenXLSX/OpenXLSX/OpenXLSX.hpp"
+#include "pugixml-1.14/src/pugixml.hpp"
+#include "rapidcsv/src/rapidcsv.h"
+#include "OpenXLSX/OpenXLSX/OpenXLSX.hpp"
 
 using namespace pugi;
 using namespace OpenXLSX;
