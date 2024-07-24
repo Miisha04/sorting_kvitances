@@ -5,10 +5,10 @@ TARGET = main
 SRCS = main.cpp pugixml-1.14/src/pugixml.cpp
 
 # Директории для заголовочных файлов
-INCLUDES = -I newRep/OpenXLSX/build/OpenXLSX/
+INCLUDES = -I OpenXLSX/build/OpenXLSX/
 
 # Директории для библиотек
-LIBDIRS = -L newRep/OpenXLSX/build/output
+LIBDIRS = -L OpenXLSX/build/output
 
 # Библиотеки
 LIBS = -lOpenXLSX
